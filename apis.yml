@@ -1,10 +1,11 @@
+aid: microsoft-projects
 name: Microsoft Project APIs
 description: A collection of APIs for Microsoft Project, enabling project management, task tracking, resource allocation, and collaboration capabilities
 image: https://www.microsoft.com/en-us/microsoft-365/project/project-management-software
 created: '2024-01-15'
-modified: '2024-01-15'
-specificationVersion: '0.18'
-url: https://api.microsoft.com/apis.json
+modified: '2026-03-16'
+specificationVersion: '0.19'
+url: https://raw.githubusercontent.com/api-evangelist/microsoft-projects/refs/heads/main/apis.yml
 apis:
 - name: Microsoft Project for the Web API
   description: REST API for managing projects, tasks, resources, and assignments in Microsoft Project for the web
@@ -77,9 +78,8 @@ apis:
     email: officedevfeedback@microsoft.com
     url: https://developer.microsoft.com/en-us/office
 maintainers:
-- FN: Microsoft
-  email: support@microsoft.com
-  url: https://www.microsoft.com/
+- FN: Kin Lane
+  email: kin@apievangelist.com
 tags:
 - project-management
 - microsoft
