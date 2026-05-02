@@ -5,7 +5,7 @@ description: >-
   resource allocation, and collaboration capabilities.
 image: https://www.microsoft.com/en-us/microsoft-365/project/project-management-software
 created: '2024-01-15'
-modified: '2026-03-16'
+modified: '2026-04-28'
 specificationVersion: '0.19'
 url: https://raw.githubusercontent.com/api-evangelist/microsoft-projects/refs/heads/main/apis.yml
 apis:

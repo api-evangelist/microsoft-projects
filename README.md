@@ -1,28 +1,29 @@
 # Microsoft Project APIs (microsoft-projects)
-A collection of APIs for Microsoft Project, enabling project management, task tracking, resource allocation, and collaboration capabilities
+A collection of APIs for Microsoft Project, enabling project management, task tracking, resource allocation, and collaboration capabilities.
 
-**URL:** [Visit APIs.json URL](https://api.microsoft.com/apis.json)
+**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/microsoft-projects/refs/heads/main/apis.yml)
 
 ## Tags:
 
- - project-management, microsoft, tasks, resources, enterprise, collaboration, portfolio-management
+ - Collaboration, Enterprise, Microsoft, Portfolio-Management, Project-Management, Resources, Tasks
 
 ## Timestamps
 
-- **Created:** 2024-01-15 
-- **Modified:** 2024-01-15 
+- **Created:** 2024-01-15
+- **Modified:** 2026-04-28
 
 ## APIs
 
 ### Microsoft Project for the Web API
-REST API for managing projects, tasks, resources, and assignments in Microsoft Project for the web
+REST API for managing projects, tasks, resources, and assignments in Microsoft Project for the web.
 
 **Human URL:** [https://docs.microsoft.com/en-us/project/](https://docs.microsoft.com/en-us/project/)
 
+**Base URL:** https://graph.microsoft.com/v1.0/
 
 #### Tags:
 
- - projects, tasks, resources, assignments, collaboration
+ - Assignments, Collaboration, Projects, Resources, Tasks
 
 #### Properties
 
@@ -32,14 +33,15 @@ REST API for managing projects, tasks, resources, and assignments in Microsoft P
 - [X-rate-limits](https://docs.microsoft.com/en-us/graph/throttling)
 
 ### Microsoft Project Online API
-REST API for Microsoft Project Online, providing access to project data, timesheets, and enterprise project management features
+REST API for Microsoft Project Online, providing access to project data, timesheets, and enterprise project management features.
 
 **Human URL:** [https://docs.microsoft.com/en-us/project/project-online](https://docs.microsoft.com/en-us/project/project-online)
 
+**Base URL:** https://{tenant}.sharepoint.com/sites/pwa/_api/ProjectServer/
 
 #### Tags:
 
- - project-online, enterprise, timesheets, portfolio, reporting
+ - Enterprise, Portfolio, Project-Online, Reporting, Timesheets
 
 #### Properties
 
@@ -49,14 +51,13 @@ REST API for Microsoft Project Online, providing access to project data, timeshe
 - [X-sdk](https://docs.microsoft.com/en-us/project/api/project-csom-overview)
 
 ### Microsoft Project Desktop CSOM API
-Client-side object model for programmatically interacting with Microsoft Project desktop applications
+Client-side object model for programmatically interacting with Microsoft Project desktop applications.
 
 **Human URL:** [https://docs.microsoft.com/en-us/office/client-developer/project/](https://docs.microsoft.com/en-us/office/client-developer/project/)
 
-
 #### Tags:
 
- - desktop, csom, automation, vba, add-ins
+ - Add-Ins, Automation, Csom, Desktop, Vba
 
 #### Properties
 
@@ -75,6 +76,6 @@ Client-side object model for programmatically interacting with Microsoft Project
 
 ## Maintainers
 
-**FN:** Microsoft
+**FN:** Kin Lane
 
-**Email:** support@microsoft.com
+**Email:** kin@apievangelist.com
