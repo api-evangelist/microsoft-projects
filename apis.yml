@@ -110,3 +110,6 @@ common:
     url: https://www.microsoft.com/en-us/legal/terms-of-use
   - type: X-privacy-policy
     url: https://privacy.microsoft.com/en-us/privacystatement
+
+  - url: https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=ProjectBlog
+    type: Blog
