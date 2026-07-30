@@ -3,6 +3,18 @@ name: Microsoft Project APIs
 description: >-
   A collection of APIs for Microsoft Project, enabling project management, task tracking,
   resource allocation, and collaboration capabilities.
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+  - plans
+  generated: '2026-07-22'
+  method: derived
 image: https://www.microsoft.com/en-us/microsoft-365/project/project-management-software
 created: '2024-01-15'
 modified: '2026-04-28'
