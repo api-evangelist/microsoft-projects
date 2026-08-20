@@ -31,6 +31,12 @@ apis:
     tags:
       - Assignments
       - Collaboration
+      - Project
+      - Resources
+      - Task
+    tags_raw:
+      - Assignments
+      - Collaboration
       - Projects
       - Resources
       - Tasks
@@ -83,6 +89,12 @@ apis:
     tags:
       - Add-Ins
       - Automation
+      - CSOM
+      - Desktop
+      - VBA
+    tags_raw:
+      - Add-Ins
+      - Automation
       - Csom
       - Desktop
       - Vba
@@ -101,6 +113,14 @@ maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
 tags:
+  - Collaboration
+  - Enterprise
+  - Microsoft
+  - Portfolio-Management
+  - Project Management
+  - Resources
+  - Task
+tags_raw:
   - Collaboration
   - Enterprise
   - Microsoft
