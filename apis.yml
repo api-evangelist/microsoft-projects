@@ -100,9 +100,9 @@ apis:
     tags:
       - Add-Ins
       - Automation
-      - Csom
+      - CSOM
       - Desktop
-      - Vba
+      - VBA
     tags_raw:
       - Add-Ins
       - Automation
@@ -128,7 +128,7 @@ tags:
   - Enterprise
   - Microsoft
   - Portfolio-Management
-  - Project-Management
+  - Project Management
   - Resources
   - Task
 tags_raw:
